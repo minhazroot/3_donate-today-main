@@ -28,3 +28,47 @@
     padding: 15px 20px;
     border-radius: 10px;
 }
+
+/* section 2 style start */
+#section_2_div {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+#donet_tk {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#donet_tk h1 {
+    display: inline;
+    padding: 30px;
+    border: 2px solid red;
+    text-align: center;
+    margin: 10px;
+
+}
+
+#red_backgrount {
+    background-color: rgba(249, 13, 13, 0.346);
+}
+
+/* section 2 style end */
+/* section 3 style start*/
+#horegantal {
+    margin-top: 50px;
+    text-align: center;
+    border-bottom: 1px solid black;
+
+
+}
+
+#link {
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+/* section 3 style end */
