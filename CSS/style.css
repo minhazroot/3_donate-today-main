@@ -1,0 +1,30 @@
+#section_1st {
+    height: 500px;
+    width: 100%;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fast_div {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#fast_div h1 {
+    font-size: 40px;
+
+}
+
+#fast_div p {
+    font-size: 30px;
+}
+
+#fast_div a {
+    text-decoration: none;
+    font-size: 40px;
+    background-image: linear-gradient(#33ccff, #ff99cc);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
