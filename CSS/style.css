@@ -57,18 +57,28 @@
 /* section 2 style end */
 /* section 3 style start*/
 #horegantal {
-    margin-top: 50px;
+    margin: 50px auto;
     text-align: center;
     border-bottom: 1px solid black;
+    width: 800px;
+
+
 
 
 }
 
-#link {
+#love {
     text-decoration: none;
-    padding: 10px 15px;
-    background-color: orange;
+    text-align: center;
+
+    background-image: linear-gradient(#091c79, #00d4ff);
+    color: white;
+    padding: 20px;
+    margin-left: 47%;
     border-radius: 10px;
 }
+
+
+
 
 /* section 3 style end */
